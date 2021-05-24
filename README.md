@@ -1,4 +1,4 @@
-Niezapominajka App
+**Niezapominajka App**
 
 Welcome!
 The application was created to always remember what we borrowed and what someone borrowed from us, so as not to forget or lose our favorite things.
